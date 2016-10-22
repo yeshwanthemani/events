@@ -68,6 +68,9 @@
     </style>
 
 </head>
+<?php 
+require('../vendor/autoload.php');
+?>
 
 <body id="page-top" class="index">
 
